@@ -2,7 +2,7 @@
 	"name": "mootools-element-at",
 	"description": "Creates an element from the source of a file",
 	"version": "0.0.1",
-	"main": "lib/main.js",
+	"main": "main.js",
 	"license": "MIT",
 	"keywords": ["mootools", "element"],
 	"author": "Jean-Philippe Dery <jeanphilippe.dery@gmail.com>",
